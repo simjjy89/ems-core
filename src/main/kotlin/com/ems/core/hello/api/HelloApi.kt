@@ -10,7 +10,7 @@ class HelloApi {
 
     @GetMapping("/")
     fun hello(): String {
-        return "Hello world3"
+        return "Hello world3 "
     }
 
 }
